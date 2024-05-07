@@ -6,6 +6,10 @@ const bcrypt = require("bcrypt")
 const app = express();
 app.use(express.json())
 
+
+
+
+
 // routes for register user
 app.post("/register",  (req, res) => {
     const { name,age,email, password } = req.body;
