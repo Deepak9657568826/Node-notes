@@ -41,7 +41,7 @@ const loginUser = async (req, res) => {
                 res.json({err});
               }
               else if(result){
-                res.json({mag:"login Successfullt", token:jwt.sign({ userID:user._id }, 'masai')});
+                res.json({mag:"login Successfullt", token:jwt.sign({data:"foo" }, 'masai')});
               }
               else{
                 res.json({mag:"invalid credetials"});

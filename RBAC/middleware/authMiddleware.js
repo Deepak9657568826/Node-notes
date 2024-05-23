@@ -15,12 +15,7 @@ const middleware = (req, res, next)=>{
                   res.json({msg:err});
               }
               else{
-                  console.log(decoded) ;// bar
-                  const user  = decoded.userID;
-                  console.log(user);
-                  const findwhomakerequest = await UserModel.findOne({_id:user})
-                  const roleOfuser = findwhomakerequest.role;
-                  req.role = roleOfuser;
+                  console.log(decoded) ;
                  next();
               }
             });
