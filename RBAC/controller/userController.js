@@ -54,6 +54,10 @@ const loginUser = async (req, res) => {
     }
 }
 
+
+
+
+
 const getAlluser= async(req, res)=>{
 
     try {
