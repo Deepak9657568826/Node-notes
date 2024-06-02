@@ -1,0 +1,79 @@
+.second_div_main {
+
+    width: 1512px;
+    height: 624px;
+    /* border: 2px solid red; */
+    background-color: black;
+
+
+}
+
+#secondfirst_div_main_btn{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
+.material-symbols-outlined{
+position: relative;
+top: -20px;
+left: 100px;
+}
+
+.second_div_main_after {
+    display: flex;
+    width: 1262px;
+    margin: auto;
+
+
+}
+.second_div_sunfirst{
+    margin-top: 80px;
+}
+
+.second_div_sunfirst h1 {
+    width: 389px;
+    height: 52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Shojumaru;
+    font-size: 44px;
+    font-weight: 200;
+    line-height: 52.36px;
+    text-align: left;
+    color: #ED0137;
+
+}
+
+.second_div_sunfirst p {
+    width: 587px;
+    height: 207px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.56px;
+    text-align: left;
+    color: #FFFCFD;
+}
+
+.second_div_sunfirst button {
+    width: 127px;
+    height: 38px;
+    padding: 10px 16px 10px 16px;
+    gap: 6.18px;
+    border-radius: 15.44px;
+    opacity: 0px;
+    background: linear-gradient(93.73deg, #ED0137 20.19%, #F05733 88.3%);
+    color: white;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+}
+
+.second_div_second{
+    margin: -70px;
+
+}

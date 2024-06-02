@@ -1,0 +1,113 @@
+.fourDiv_main {
+    position: relative;
+    /* Ensure the pseudo-element is positioned relative to .fourDiv_main */
+    width: 1512px;
+    height: 706px;
+    /* border: 2px solid red; */
+    background-image: url("https://s3-alpha-sig.figma.com/img/c869/1086/fe977eb60a56b9a690490c109cbb1a69?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WNtglA2Gz2epU-1a2Ozh30fZewTYeQXla3H0u-elayvseL80rZ2~KMi1DbHEhy0-1uZqXcGGventbMstH91zqKLJbs7dFoMP~FkyBmSA9RrwZTa5cAUsZXk6PNOvKUkHE6X5xbySw34QukmRk28lx6JDTIYh9c1QeZrh-0vbn6Kqbid-8EstrOgAS7ptSkVksx5Gd-bsAKHj0IMG7P3f51CoyfY6xvDzF2bUJvZvBeoPRocdnkwfqOA2xDIF3894egqBnGI65r7xaKLmEvnSjeF4HIc4PfA1Bxy54ipI4QI9pjN9gehokkP25JntOm0iuGfBj0mq0NdLFZuKfZBMPA__");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    gap: 0px;
+
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+  
+}
+
+
+
+.fourDiv_main h1 {
+    width: 330px;
+    height: 52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Shojumaru;
+    font-size: 44px;
+    font-weight: 200;
+    line-height: 52.36px;
+    text-align: center;
+    color: #ED0137;
+    margin: -20px auto;
+}
+
+.fourDiv_main_inner {
+    width: 1332px;
+    margin: 50px auto;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourDiv_inner_first {
+    width: 412px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    border: 1.5px solid rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    gap: 5px;
+
+    /* border-image-source: linear-gradient(132.77deg, #EF490F 2.13%, #DA0909 98.39%); */
+}
+
+.fourDiv_inner_second {
+    width: 885.42px;
+    height: 372px;
+    gap: 0px;
+    opacity: 0px;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+.foursame {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px 0px 50px;
+    margin-top: 19px;
+
+}
+
+.ptag_first {
+    font-family: ZCOOL KuaiLe;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+
+}
+
+.pTag {
+    color: red;
+    font-family: ZCOOL KuaiLe;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+
+}
+
+.fourDiv_main button {
+    width: 244px;
+    height: 70px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: relative;
+    top: 120px;
+    left: 170px;
+    background: #ED0137;
+    font-family: Shojumaru;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23.84px;
+    text-align: center;
+    color: white;
+}

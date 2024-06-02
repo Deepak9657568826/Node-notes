@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Shojumaru", system-ui;
+    font-weight: 200;
+    font-style: normal;
+
+
+}
+
+.header_main_div {
+
+    width: 1512px;
+    height: 588px;
+    /* border: 2px solid red; */
+    background-image: url("https://s3-alpha-sig.figma.com/img/894b/df6e/56b90bbef82ad188765f40d12a46caef?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jBniJIIabUM5Sz2MptOUCZcISt5SJUkYa~32yo4k4uKIZOnsv2UPfRCUlYo-w2quEcv9rqDuuafokBaRla7zZMxJf6ILz1UBaSYRjEtjO9Is-QiWLUdkXnOgDQSf2oZEvHTyyPZkokWIVlUlyVkawK~OaqKGqcoGccfLpefDMbC4Gzb9p8Ta~8QmdfAVadD~0KfT8IvJYgefdHWYAyFSSAUkE35Ne4jTu0pXAH61KDcvPipctfKO-Pkq3j3Q9ADYxg-c8H2970mBZ8c7Ap8dDwtCB3Nx7ZseV8CNB-SnNW4TjDWGB9wVYeRtEnABJmkKot4pxdnjs04l5mKHfXR4VA__");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+}
+
+.header_navbar {
+    display: flex;
+    /* border: 3px solid black; */
+    justify-content: space-between;
+    align-items: center;
+    width: 1332px;
+    margin: 20px auto;
+}
+
+.header_first_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_first_div img {
+    margin-top: 25px;
+
+}
+
+.header_first_div h1 {
+    color: white;
+
+}
+
+.header_second_div {
+    width: 583px;
+    height: 52px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    Padding: 16px, 24px, 16px, 24px;
+    gap: 24px;
+    background: #191818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_second_div a {
+    text-decoration: none;
+    font-family: ZCOOL KuaiLe;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.header_third_div button {
+    width: 127px;
+    height: 38px;
+    padding: 10px 16px 10px 16px;
+    gap: 6.18px;
+    border-radius: 15.44px;
+    opacity: 0px;
+    background: linear-gradient(93.73deg, #ED0137 20.19%, #F05733 88.3%);
+    color: white;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+
+}
+
+.header_navbar_second {
+    height: 108px;
+    width: 1262px;
+    color: #FBF6F6;
+   
+    padding: 0px;
+    margin: 110px auto;
+
+}
+
+.header_navbar_second h1 {
+    margin: 0px;
+    font-family: Shojumaru;
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 53.55px;
+    text-align: center;
+  
+
+}

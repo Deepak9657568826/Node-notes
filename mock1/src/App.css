@@ -1,0 +1,361 @@
+
+.mainContainer{
+  margin-top: -20px;
+}
+
+
+.main_div {
+  /* height: 5094px; */
+  width: 1512px;
+  /* border: 2px solid red; */
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.roadmap_main_div {
+  height: 716px;
+  width: 1512px;
+  background-image: url(https://s3-alpha-sig.figma.com/img/7fb8/c9c7/2e63edc105c3925cfa651946f437c2fd?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jjLcTC3sH3GYbn7re~tH~Nmk1RGHp0R2VmCRcND3C-8~YPtYnKAGwtoRrge6hYpDbiEEjiFS81-GaSkT9E76UPQCb4SI0grIdfxU29vpK3Nqaw3KTU9AUYdwPxjbJzc7JXd5ipQuYTNdD6Y2p-AnWzv8tKVcVhhSBIf1F0BAqao09vOZw5RiVvKueL5m7-qEVbVm4ybeFvPo9Vnoi9ZLk7eWw5E5fLY1Ifd0lWW5htWnhDegKifYhgbKJu-gqjs2ifZNVPGt-qVomH1ScrUAOF69Urdxi83gjySJ89JzuYFalMH-qwUJifSgv3Hn2A961XxqppCaW1mW7Onyc4AzBg__);
+  background-color: rgba(0, 0, 0, 0.8);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.roadmap_containt {
+  width: 282px;
+  height: 52px;
+  margin-top: 64px;
+  margin-left: 613px;
+  font-weight: 400px;
+  font-size: 44px;
+  line-height: 52.36px;
+  font-family: "Shojumaru", system-ui;
+  color: #ED0137;
+
+}
+
+.roadmap_cards_container {
+  width: 1159.1px;
+  height: 349px;
+  margin-top: 227px;
+  margin-left: 164px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+.cards {
+  height: 349px;
+  width: 237.06px;
+  border-radius: 13.17px;
+
+}
+
+
+/* faq */
+
+.faqMain_container {
+  height: 900px;
+  width: 1512px;
+  border: 2px solid ;
+  background-color: #0a0a0a;
+}
+
+
+.faq_inner_main_div {
+  display: flex;
+
+}
+
+
+.faq_containt {
+  width: 119px;
+  height: 52px;
+  margin-top: 120px;
+  margin-left: 943px;
+  font-family: "Shojumaru", system-ui;
+  color: #ED0137;
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 52.36px;
+  text-align: left;
+
+}
+
+.faq_img {
+  width: 503px;
+  height: 503px;
+  margin-top: 50px;
+  margin-left: 87px;
+
+}
+
+.faq_input_main_div {
+  height: 500px;
+  width: 650px;
+  margin-top: 100px;
+  margin-left: 77px;
+
+}
+
+.faqFirstmain {
+  width: 640px;
+  height: 77px;
+  gap: 10px;
+  border: 1PX solid #ED0137;
+  border-radius: 20px;
+  background: #0F0F0F;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+.faqnumber {
+  width: 9px;
+  height: 24px;
+
+  margin-left: 30px;
+  opacity: 0px;
+  color: #FFFFFF;
+  font-family: Shojumaru;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.84px;
+  text-align: left;
+}
+
+.faqContaintfirst {
+  width: 286px;
+  height: 26px;
+  margin-left: 70px;
+  font-family: Shojumaru;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 26.48px;
+  text-align: left;
+  color: #FFFFFF;
+
+
+
+}
+
+/* second */
+.faqSecondmain {
+  width: 640px;
+  height: 77px;
+  gap: 10px;
+  border: 1PX solid #ED0137;
+  border-radius: 20px;
+  background: #0F0F0F;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.faqContaintsecond {
+  width: 437px;
+  height: 26px;
+  margin-left: 70px;
+  font-family: Shojumaru;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 26.48px;
+  text-align: left;
+  color: #FFFFFF;
+
+
+}
+
+
+/* third */
+.faqThirdmain {
+  width: 640px;
+  height: 77px;
+  gap: 10px;
+  border: 1PX solid #ED0137;
+  border-radius: 20px;
+  background: #0F0F0F;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.faqContaintthird {
+
+  height: 26px;
+  margin-left: 70px;
+  font-family: Shojumaru;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 26.48px;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+
+/* four */
+.faqFourmain {
+  width: 640px;
+  height: 202px;
+  gap: 0px;
+  border-radius: 20px;
+  border: 1px;
+  border: 1PX solid #ED0137;
+  background: #0F0F0F;
+
+
+}
+
+.faqfourmainfirst {
+  width: 640px;
+  height: 77px;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.faqfourmainsecond {
+  width: 568px;
+  height: 83px;
+  margin-left: 37px;
+  border-radius: 20px;
+  background: #EEEEEE0A;
+}
+
+.faqfourmainsecondinner {
+  width: 524px;
+  height: 46px;
+  margin-left: 49px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25.56px;
+  text-align: left;
+  color: #FBF9F9;
+
+}
+
+
+/* footer */
+.footer_main_div {
+  width: 1512px;
+  height: 428px;
+  /* border: 3px solid fuchsia; */
+  background: linear-gradient(180deg, #030405 0%, #120101 100%);
+  margin-top: -65px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.footer_img {
+  height: 221px;
+  width: 200px;
+  margin-left: 658px;
+  margin-top: 64px;
+
+}
+
+.footer_img img {
+  width: 200px;
+  height: 163px;
+}
+
+.footer_img_content {
+  width: 114px;
+  height: 26px;
+  margin-top: 6px;
+  margin-left: 40px;
+  font-family: po;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  line-height: 25.64px;
+  letter-spacing: 1.7090909481048584px;
+  text-align: left;
+  color: transparent;
+  background: linear-gradient(92.23deg, #FF002A 5.2%, #720005 90.93%);
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
+
+.footer_element {
+  width: 750px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 447px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 2px solid white; */
+
+
+
+}
+
+.footer_element a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.footer_icon {
+  width: 111px;
+  height: 27px;
+  margin-top: 30px;
+  margin-left: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.footericonfirst {
+  width: 22.89px;
+  height: 18.63px;
+
+}
+
+.footericonthird {
+  width: 21.33px;
+  height: 15.07px;
+
+}
+
+.faqicon1 {
+  width: 24px;
+  height: 24px;
+  margin-left: 80px;
+  margin-top: 30px;
+  
+}
+
+.faqicon2 {
+  width: 24px;
+  height: 24px;
+  margin-left: -70px;
+  margin-top: 30px;
+}
+
+.faqicon3 {
+  width: 24px;
+  height: 24px;
+  margin-left: 15px;
+  margin-top: 30px;
+}
+
+.faqicon4 {
+  width: 24px;
+  height: 24px;
+  margin-left: -25px;
+  margin-top: 30px;
+}
+
+span {
+
+  color: #FFFFFF;
+}

@@ -1,0 +1,327 @@
+.third_main {
+    width: 1512px;
+    height: 1145px;
+    /* border: 2px solid red; */
+    background-image: url("https://s3-alpha-sig.figma.com/img/b6b9/0f7f/8e9b3d8d12c20152d7f3a9b31de44fe8?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NCYtvR~628jEbUTFcpnz6ogAaDE3ysJ5D5cUi0Wq9Wz1QKJEabU4zd1DnR9LWwclo~hvPTUlIlF3tGRUnx5wrv01asgSn~y8Ye9ahEVu-5T~IJAkKokvfO9qN0VQQl-wllJe2c7A-jVHEAqGqL1k0VZ1diNOLmGKLE4kj1eKp-PT7aiOjEXIXgMYnr5s2Idt-rV~ZWIljgtjXbbtnRgKt3igmvC6OFIsUjxBN958KL2We91IfvNZtO5HUI5dmYdmY8y1vEfp1oYedenQnxSWuFpgq4-y5cj0QHi8~8wC4veprvWG98DC9mmlkSCgpSfm7TpiZu4mnynRLkAsOspuBQ__");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+}
+
+.third_main_inner_div {
+
+    width: 1262px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    height: 1050px;
+
+}
+
+.third_main h1 {
+    font-family: Shojumaru;
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 54.19px;
+    text-align: center;
+    height: 54px;
+    gap: 0px;
+    opacity: 0px;
+    /* margin: 20px auto; */
+    color: #ED0137;
+
+
+
+}
+
+.third_main_first {
+    /* border: 2px solid rgb(252, 252, 252); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.third_main_second {
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  width: 600px;
+  border-radius: 30px
+
+  ;
+}
+
+.firstpTagThird {
+    width: 539px;
+    height: 111px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 20.92px;
+    font-weight: 400;
+    line-height: 36.51px;
+    text-align: center;
+    color: white;
+
+}
+
+.btn_third {
+    width: 244px;
+    height: 70px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+    background: #ED0137;
+    font-family: Shojumaru;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 23.84px;
+    text-align: center;
+    color: white;
+}
+
+.middle_H1 {
+    font-family: ZCOOL KuaiLe;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+
+.third_main_btn {
+    width: 135px;
+    height: 50px;
+    padding: 10px 16px 10px 16px;
+    gap: 6.18px;
+    border-radius: 15.44px;
+    opacity: 0px;
+    background: linear-gradient(93.73deg, #ED0137 20.19%, #F05733 88.3%);
+    color: white;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.third_main_h1 {
+    width: 547px;
+    height: 74px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Shojumaru;
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 37.08px;
+    text-align: center;
+    color: #ED0137;
+}
+
+.third_last_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 467px;
+    height: 48px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    padding: 10px;
+    margin-top:70px;
+
+}
+
+.third_last_div p {
+    width: 239px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0.52px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: white;
+
+}
+
+.third_last_div button {
+    width: 100px;
+    height: 42px;
+    top: 2163px;
+    left: 476px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    background: #ED0137;
+    color: white;
+
+}
+
+
+.third_main_second h4 {
+    width: 376px;
+    height: 24px;
+    top: 240px;
+    left: 166px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    margin-bottom: 10px;
+
+
+}
+
+.firstThrid_ptag {
+    width: 376px;
+    height: 24px;
+    top: 240px;
+    left: 166px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: white;
+    margin-bottom: 20px;
+
+
+}
+
+.second_Thrid_ptag {
+    width: 376px;
+    height: 24px;
+    top: 240px;
+    left: 166px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    margin-bottom: 20px;
+
+
+}
+
+.third_Thrid_ptag {
+    width: 376px;
+    height: 24px;
+    top: 240px;
+    left: 166px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+    margin-bottom: 20px;
+
+
+}
+
+#firstInput {
+    width: 467px;
+    height: 48px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-color: red;
+
+}
+
+#secondInput {
+    width: 467px;
+    height: 48px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-color: red;
+}
+
+#thirdInput {
+    width: 467px;
+    height: 48px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-color: red;
+}
+
+.third_Div_second_last_btn{
+    width: Hug (73.58px)px;
+    height: Hug (45px)px;
+    top: 654px;
+    left: 237px;
+    padding: 14px 21.29px 14px 21.29px;
+    gap: 11.35px;
+    border-radius: 21.92px;
+    opacity: 0px;
+    background: linear-gradient(93.73deg, #D51B46 10.19%, #EE6910 98.19%);
+    color: white;
+}
+
+.third_Div_last_btn{
+    width: Hug (131.58px)px;
+height: Hug (45px)px;
+top: 654px;
+left: 343px;
+padding: 14px 21.29px 14px 21.29px;
+gap: 11.35px;
+border-radius: 21.92px;
+opacity: 0px;
+background: linear-gradient(93.73deg, #D51B46 10.19%, #EE6910 98.19%);
+color: white;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+form input {
+    background-color: rgba(0, 0, 0, 0.1); /* Light black background */
+    color: white; /* Optional: text color for better contrast */
+    border: 1px solid #ccc; /* Optional: border color for better visibility */
+    padding: 10px; /* Optional: padding for better appearance */
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
+.thir_lastButton_Div{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 30px;
+
+}
